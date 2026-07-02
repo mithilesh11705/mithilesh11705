@@ -26,7 +26,7 @@
 - 🇯🇵 Currently working as a **Software Engineering Intern in Tokyo**
 - 💻 Passionate about **Backend Development** and **Scalable Systems**
 - 🌱 Learning **Cloud, System Design & DevOps**
-- 🚀 500+ DSA Problems Solved
+- 🚀 1500+ DSA Problems Solved
 - ❤️ Love Open Source
 - ⚡ Building products that solve real-world problems
 
@@ -70,29 +70,6 @@
 
 </div>
 
----
-
-
-# 🧠 Competitive Programming
-
-<div align="center">
-
-| Platform | Profile |
-|----------|---------|
-| 🟠 LeetCode | https://leetcode.com/u/JaiBajrang_117/ |
-| 🟢 GeeksforGeeks | https://www.geeksforgeeks.org/user/mithilesh117/ |
-
-</div>
-
-### Achievements
-
-🏅 500+ Problems Solved
-
-🏅 Strong in Data Structures & Algorithms
-
-🏅 Active Open Source Contributor
-
----
 
 # 🌐 Connect With Me
 
