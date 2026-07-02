@@ -72,39 +72,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mithilesh11705&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mithilesh11705/X">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mithilesh11705&repo=X&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/mithilesh11705/DevTinder">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mithilesh11705&repo=DevTinder&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/mithilesh11705/Wild-Oasis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mithilesh11705&repo=Wild-Oasis&theme=tokyonight"/>
-</a>
-
-</div>
-
----
 
 # 🧠 Competitive Programming
 
