@@ -59,18 +59,6 @@
 
 ---
 
-# 📊 GitHub Metrics
-
-> Displays Pull Requests, Merged PRs, Issues, Reviews, Stars, Repositories, Languages and more.
-
-<div align="center">
-
-<img src="./github-metrics.svg"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
