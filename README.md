@@ -4,8 +4,6 @@
 
 ### Full Stack Developer • Open Source Contributor • CSE @ IIIT Nagpur 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Open+Source+Contributor;Backend+%7C+Cloud+%7C+System+Design;Currently+Interning+in+Tokyo+🇯🇵" alt="Typing SVG" />
-
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=mithilesh11705&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
