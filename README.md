@@ -81,7 +81,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://mithileshdeore.lovable.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
